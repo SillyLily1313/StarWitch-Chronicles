@@ -8,6 +8,7 @@ Their peaceful existence is threatened when the notorious Captain Seraphine, lea
 Alongside their loyal allies, the Star Witches master their magical abilities and confront Captain Seraphine's menacing forces. Each encounter pushes them to their limits, but they refuse to surrender. Through countless trials and tribulations, Celine and Luna grow closer, their love fueling their power as they fight side by side. Will the Star Witches prevail in overcoming the wrath of NovaCorp? Only time will tell...NEXT TIME...ON STARWITCH CHRONICLES...(outro musics totally not INSPIRED from DBZ with a mix of nanoha...)
 
 # ROADMAP - WIP
+- Finish Story - https://www.celtx.com/auth/public/resource/ib3q2f8s
 - Game Engine - Just use Godot or make own?
 - Basic Assets - find free assets and make some own
 - Working Prototype - find out if game even worth to continue
